@@ -21,6 +21,7 @@ h1, h2, h3 {
   font-family: 'Open Sans', sans-serif;
 }
 
+// Background Gradient
 .navbar, .home-callout {
   //Gradient provided by @_ighosh at uiGradient.com
   background: #41295a;  /* fallback for old browsers */
@@ -28,6 +29,7 @@ h1, h2, h3 {
   background: linear-gradient(to right, #2F0743, #41295a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
+// Nav Styles
 .navbar {
   border: none;
 }
@@ -41,6 +43,7 @@ h1, h2, h3 {
   }
 }
 
+// Home Page Styles
 .home-callout {
   color: white;
   margin-top: -20px;
